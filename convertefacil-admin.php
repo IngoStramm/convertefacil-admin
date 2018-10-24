@@ -3,7 +3,7 @@
  * Plugin Name: ConverteFacil Admin
  * Plugin URI: http://laf.marketing
  * Description: Este plugin customiza a aparência do painel administrativo do WP.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Ingo Stramm
  * Text Domain: cfa
  * License: GPLv2

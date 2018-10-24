@@ -67,11 +67,11 @@ function cfa_register_required_plugins() {
 			'required'  => true,
 		),
 		
-		array(
-			'name'      => 'User Role Editor',
-			'slug'      => 'user-role-editor',
-			'required'  => true,
-		),
+		// array(
+		// 	'name'      => 'User Role Editor',
+		// 	'slug'      => 'user-role-editor',
+		// 	'required'  => true,
+		// ),
 
 	);
 
